@@ -8,4 +8,4 @@ Script em Python que organiza os arquivos de uma pasta, movendo-os para subpasta
 2. Execute o script com Python instalado.
 
 ```python
-python organizador.py
+python testeee.py
